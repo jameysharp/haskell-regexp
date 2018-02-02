@@ -22,7 +22,7 @@ Extra-Source-Files:     README.markdown CHANGES.markdown
 Library
   Build-Tools:          happy >= 1.17
   Build-Depends:        base >= 3 && < 5,
-                        array >= 0.1 && < 0.5
+                        array >= 0.1 && < 0.6
   HS-Source-Dirs:       src
   Exposed-Modules:      Text.RegExp,
                         Text.RegExp.Matching.Leftmost,
